@@ -1,3 +1,6 @@
 body {
 background: grey;
 }
+.tag b{
+    color: green;
+}
