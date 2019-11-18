@@ -1,0 +1,27 @@
+{
+  "name": "zhekshenovkalys.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "live": "--inline-hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalys01/Zhekshenovkalys.io.git"
+  },
+  "author": "Kalys Zhekshenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalys01/Zhekshenovkalys.io/issues"
+  },
+  "homepage": "https://github.com/Kalys01/Zhekshenovkalys.io#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  }
+}

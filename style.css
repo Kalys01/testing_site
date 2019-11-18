@@ -1,6 +1,10 @@
 body {
-background: grey;
-}
-.tag b{
-    color: green;
-}
+    margin: 0;
+    bottom: 0;
+   }
+.intro{
+       height: 800px;
+   }
+.tag{
+       color: white;
+   }
